@@ -1,6 +1,3 @@
-![graph](../graph.jpg)
-
-
 # Project: Visualizing Real World Data - Salaries and Job Satisfaction of Data Professionals worldwide
 
 ## Overview
