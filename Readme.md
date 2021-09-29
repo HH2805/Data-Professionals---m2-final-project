@@ -2,9 +2,9 @@
 
 ## Overview
 
-The goal of this project is to practice data cleaning, creating and interpreting different types of visualizations, using probability testing and to present all of it effectively.
+The goal of this project is to practice data cleaning, creating and interpreting different types of visualizations, and to present all of it effectively.
 
-I have chosen to study the results of the Stack Overflow worldwide yearly 'Developer Survey'. My dataset is an extract of the survey results in 2017, 2018, 2019 and 2020. It was downloaded from Kaggle.
+I have chosen to study the results of the Stack Overflow worldwide yearly 'Developer Survey'. My dataset is an extract of the 2017, 2018, 2019 and 2020 survey results. It was downloaded from Kaggle.
 
 Each row of the dataset is the response of one data professional with regard to country, job position, salary, job satisfaction, and more.
 
