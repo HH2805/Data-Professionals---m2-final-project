@@ -1,4 +1,4 @@
-# Project: Visualizing Real World Data - Salaries and Job Satisfaction of Data Professionals worldwide
+# Visualizing Salaries and Job Satisfaction of Data Professionals Worldwide
 
 ## Overview
 
